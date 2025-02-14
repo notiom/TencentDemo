@@ -13,7 +13,7 @@
 
 ### 项目部分源代码放至source中
 
-### 项目可执行文件放至released的build中
+### 项目可执行文件放至releases的build中
 
 
 
